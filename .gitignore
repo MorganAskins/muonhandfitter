@@ -1,0 +1,6 @@
+archive/*
+zdab/*
+maskins/*
+processing/*
+*.root
+*.so
